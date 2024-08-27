@@ -11,6 +11,10 @@ const routes: Routes = [
     redirectTo: 'home',
     pathMatch: 'full'
   },
+  {
+    path: 'inference',
+    loadChildren: () => import('./inference/inference.module').then( m => m.InferencePageModule)
+  },
 ];
 
 @NgModule({
