@@ -1,6 +1,6 @@
-
 from transformers import VisionEncoderDecoderModel, ViTImageProcessor, AutoTokenizer
 import torch
+import os
 from PIL import Image
 
 model = VisionEncoderDecoderModel.from_pretrained("nlpconnect/vit-gpt2-image-captioning")
@@ -10,11 +10,10 @@ tokenizer = AutoTokenizer.from_pretrained("nlpconnect/vit-gpt2-image-captioning"
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model.to(device)
 
-
-
-max_length = 50
-num_beams = 10
+max_length = 200
+num_beams = 50
 gen_kwargs = {"max_length": max_length, "num_beams": num_beams}
+
 def predict_step(image_paths):
   images = []
   for image_path in image_paths:
@@ -34,4 +33,4 @@ def predict_step(image_paths):
   return preds
 
 
-print(predict_step([r"C:\Users\Willian Murayama\Downloads\testes2.jpg"])) # ['a woman in a hospital bed with a woman in a hospital bed']
+[print(i) for i in predict_step([os.path.join(r'output_segments',x) for x in os.listdir(r'output_segments')])]

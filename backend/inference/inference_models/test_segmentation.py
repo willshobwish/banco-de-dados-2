@@ -6,7 +6,7 @@ import os
 model = torch.hub.load("ultralytics/yolov5", "yolov5s")
 
 # Inference on an image
-image_path = r"C:\Users\Willian Murayama\Downloads\testes2.jpg"
+image_path = r"assets\pexels-ekrulila-2332914.jpg"
 results = model(image_path)
 
 # Load the original image using PIL
