@@ -9,8 +9,8 @@ model = BlipForConditionalGeneration.from_pretrained("Salesforce/blip-image-capt
 raw_image = Image.open(r"C:\Users\Willian Murayama\Downloads\testes2.jpg").convert('RGB')
 
 # conditional image captioning
-# text = "a photography of"
-# inputs = processor(raw_image, text, return_tensors="pt")
+text = "a photography of"
+inputs = processor(raw_image, text, return_tensors="pt")
 
 # out = model.generate(**inputs)
 # print(processor.decode(out[0], skip_special_tokens=True))

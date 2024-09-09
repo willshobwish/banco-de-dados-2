@@ -1,18 +1,2 @@
-segment_1.jpg: a man is sitting on the sidewalk looking at his phone
-segment_10.jpg: two men walking down the street with their hands on their hips
-segment_11.jpg: a man walking down a street next to a group of people
-segment_12.jpg: a man is walking down the street with a skateboard
-segment_13.jpg: a man walking down the street with a group of people
-segment_14.jpg: a man is walking down the street with his hands on his hips
-segment_15.jpg: a man is walking down the street with a group of people
-segment_16.jpg: a man in a suit and tie standing in front of a car
-segment_17.jpg: a man riding a skateboard down the middle of a crowded street
-segment_18.jpg: a man is walking down the street with a skateboard
-segment_2.jpg: a street sign with graffiti on it
-segment_3.jpg: a man in a suit and tie walking down the street
-segment_4.jpg: a man walking down the street while talking on a cell phone
-segment_5.jpg: a man that is standing on a rail
-segment_6.jpg: a crowd of people walking down a street
-segment_7.jpg: a large group of people standing in front of a van
-segment_8.jpg: a man is walking down the street with his dog
-segment_9.jpg: a crowd of people walking down a street
+segment_1.jpg: a man standing on a beach holding a surfboard
+segment_2.jpg: a man standing next to a woman on a beach

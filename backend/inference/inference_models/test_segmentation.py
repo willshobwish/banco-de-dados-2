@@ -30,3 +30,5 @@ def segmentation(image_path:str):
         segment.save(segment_path)
 
         print(f"Saved segment {i+1} at {segment_path}")
+
+segmentation(r'C:\Users\Willian Murayama\github\banco-de-dados-2\assets\pexels-sohan-rahat-1445529889-27000787.jpg')
