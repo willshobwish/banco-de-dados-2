@@ -1,0 +1,172 @@
+segment_1.jpg:What color is using? red
+segment_1.jpg:There is a car? yes
+segment_1.jpg:There is a bicycle? no
+segment_1.jpg:Give me an insight of image no
+segment_10.jpg:What color is using? red
+segment_10.jpg:There is a car? yes
+segment_10.jpg:There is a bicycle? no
+segment_10.jpg:Give me an insight of image yes
+segment_11.jpg:What color is using? red
+segment_11.jpg:There is a car? no
+segment_11.jpg:There is a bicycle? no
+segment_11.jpg:Give me an insight of image no
+segment_12.jpg:What color is using? white
+segment_12.jpg:There is a car? yes
+segment_12.jpg:There is a bicycle? no
+segment_12.jpg:Give me an insight of image no
+segment_13.jpg:What color is using? black
+segment_13.jpg:There is a car? yes
+segment_13.jpg:There is a bicycle? no
+segment_13.jpg:Give me an insight of image no
+segment_14.jpg:What color is using? white
+segment_14.jpg:There is a car? yes
+segment_14.jpg:There is a bicycle? yes
+segment_14.jpg:Give me an insight of image no
+segment_15.jpg:What color is using? black
+segment_15.jpg:There is a car? yes
+segment_15.jpg:There is a bicycle? no
+segment_15.jpg:Give me an insight of image yes
+segment_16.jpg:What color is using? red
+segment_16.jpg:There is a car? yes
+segment_16.jpg:There is a bicycle? yes
+segment_16.jpg:Give me an insight of image no
+segment_17.jpg:What color is using? red
+segment_17.jpg:There is a car? yes
+segment_17.jpg:There is a bicycle? no
+segment_17.jpg:Give me an insight of image no
+segment_18.jpg:What color is using? black
+segment_18.jpg:There is a car? no
+segment_18.jpg:There is a bicycle? no
+segment_18.jpg:Give me an insight of image no
+segment_19.jpg:What color is using? black
+segment_19.jpg:There is a car? yes
+segment_19.jpg:There is a bicycle? no
+segment_19.jpg:Give me an insight of image yes
+segment_2.jpg:What color is using? red
+segment_2.jpg:There is a car? yes
+segment_2.jpg:There is a bicycle? no
+segment_2.jpg:Give me an insight of image no
+segment_20.jpg:What color is using? red
+segment_20.jpg:There is a car? yes
+segment_20.jpg:There is a bicycle? no
+segment_20.jpg:Give me an insight of image no
+segment_21.jpg:What color is using? black
+segment_21.jpg:There is a car? yes
+segment_21.jpg:There is a bicycle? no
+segment_21.jpg:Give me an insight of image no
+segment_22.jpg:What color is using? red
+segment_22.jpg:There is a car? yes
+segment_22.jpg:There is a bicycle? yes
+segment_22.jpg:Give me an insight of image no
+segment_23.jpg:What color is using? red
+segment_23.jpg:There is a car? no
+segment_23.jpg:There is a bicycle? no
+segment_23.jpg:Give me an insight of image yes
+segment_24.jpg:What color is using? red
+segment_24.jpg:There is a car? no
+segment_24.jpg:There is a bicycle? no
+segment_24.jpg:Give me an insight of image no
+segment_25.jpg:What color is using? red
+segment_25.jpg:There is a car? yes
+segment_25.jpg:There is a bicycle? yes
+segment_25.jpg:Give me an insight of image no
+segment_26.jpg:What color is using? white
+segment_26.jpg:There is a car? yes
+segment_26.jpg:There is a bicycle? no
+segment_26.jpg:Give me an insight of image no
+segment_27.jpg:What color is using? red
+segment_27.jpg:There is a car? yes
+segment_27.jpg:There is a bicycle? yes
+segment_27.jpg:Give me an insight of image no
+segment_28.jpg:What color is using? white
+segment_28.jpg:There is a car? no
+segment_28.jpg:There is a bicycle? no
+segment_28.jpg:Give me an insight of image yes
+segment_29.jpg:What color is using? red
+segment_29.jpg:There is a car? yes
+segment_29.jpg:There is a bicycle? yes
+segment_29.jpg:Give me an insight of image no
+segment_3.jpg:What color is using? red
+segment_3.jpg:There is a car? yes
+segment_3.jpg:There is a bicycle? yes
+segment_3.jpg:Give me an insight of image yes
+segment_30.jpg:What color is using? green
+segment_30.jpg:There is a car? no
+segment_30.jpg:There is a bicycle? no
+segment_30.jpg:Give me an insight of image no
+segment_31.jpg:What color is using? green
+segment_31.jpg:There is a car? yes
+segment_31.jpg:There is a bicycle? no
+segment_31.jpg:Give me an insight of image yes
+segment_32.jpg:What color is using? red
+segment_32.jpg:There is a car? yes
+segment_32.jpg:There is a bicycle? no
+segment_32.jpg:Give me an insight of image no
+segment_33.jpg:What color is using? black
+segment_33.jpg:There is a car? yes
+segment_33.jpg:There is a bicycle? no
+segment_33.jpg:Give me an insight of image no
+segment_34.jpg:What color is using? red
+segment_34.jpg:There is a car? yes
+segment_34.jpg:There is a bicycle? no
+segment_34.jpg:Give me an insight of image yes
+segment_35.jpg:What color is using? white
+segment_35.jpg:There is a car? yes
+segment_35.jpg:There is a bicycle? no
+segment_35.jpg:Give me an insight of image no
+segment_36.jpg:What color is using? black
+segment_36.jpg:There is a car? no
+segment_36.jpg:There is a bicycle? no
+segment_36.jpg:Give me an insight of image no
+segment_37.jpg:What color is using? black
+segment_37.jpg:There is a car? yes
+segment_37.jpg:There is a bicycle? yes
+segment_37.jpg:Give me an insight of image no
+segment_38.jpg:What color is using? black
+segment_38.jpg:There is a car? yes
+segment_38.jpg:There is a bicycle? no
+segment_38.jpg:Give me an insight of image no
+segment_39.jpg:What color is using? red
+segment_39.jpg:There is a car? yes
+segment_39.jpg:There is a bicycle? yes
+segment_39.jpg:Give me an insight of image no
+segment_4.jpg:What color is using? red
+segment_4.jpg:There is a car? yes
+segment_4.jpg:There is a bicycle? no
+segment_4.jpg:Give me an insight of image no
+segment_40.jpg:What color is using? red
+segment_40.jpg:There is a car? yes
+segment_40.jpg:There is a bicycle? yes
+segment_40.jpg:Give me an insight of image no
+segment_41.jpg:What color is using? black
+segment_41.jpg:There is a car? yes
+segment_41.jpg:There is a bicycle? no
+segment_41.jpg:Give me an insight of image no
+segment_42.jpg:What color is using? red
+segment_42.jpg:There is a car? yes
+segment_42.jpg:There is a bicycle? no
+segment_42.jpg:Give me an insight of image no
+segment_43.jpg:What color is using? black
+segment_43.jpg:There is a car? yes
+segment_43.jpg:There is a bicycle? no
+segment_43.jpg:Give me an insight of image yes
+segment_5.jpg:What color is using? red
+segment_5.jpg:There is a car? no
+segment_5.jpg:There is a bicycle? no
+segment_5.jpg:Give me an insight of image no
+segment_6.jpg:What color is using? red
+segment_6.jpg:There is a car? yes
+segment_6.jpg:There is a bicycle? yes
+segment_6.jpg:Give me an insight of image no
+segment_7.jpg:What color is using? white
+segment_7.jpg:There is a car? yes
+segment_7.jpg:There is a bicycle? no
+segment_7.jpg:Give me an insight of image no
+segment_8.jpg:What color is using? red
+segment_8.jpg:There is a car? no
+segment_8.jpg:There is a bicycle? no
+segment_8.jpg:Give me an insight of image no
+segment_9.jpg:What color is using? red
+segment_9.jpg:There is a car? yes
+segment_9.jpg:There is a bicycle? no
+segment_9.jpg:Give me an insight of image no

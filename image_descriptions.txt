@@ -1,0 +1,43 @@
+segment_1.jpg: the image have a lot of people walking around the street
+segment_10.jpg: the image have two people walking on the street with a dog
+segment_11.jpg: the image have two girls walking down the street with their cell phones
+segment_12.jpg: the image have two people walking across the street with a dog
+segment_13.jpg: the image have two people walking down the street with a skateboard
+segment_14.jpg: the image have two women in pink shirts walking down the street
+segment_15.jpg: the image have a man with a mustache and glasses on
+segment_16.jpg: the image have many cars parked on the side of the road
+segment_17.jpg: the image have a lot of people walking around in the street
+segment_18.jpg: the image have two women walking down the street with a dog
+segment_19.jpg: the image have a lot of cars on the street with a lot of traffic
+segment_2.jpg: the image have two people in a car driving down the street
+segment_20.jpg: the image have two people walking down the street with a bench
+segment_21.jpg: the image have two people on skateboards and one is carrying a child
+segment_22.jpg: the image have a lot of people on the street in front of a bus
+segment_23.jpg: the image have a woman with a white shirt and a black skirt
+segment_24.jpg: the image have blurred motion blurry of a group of people riding surfboards
+segment_25.jpg: the image have a lot of people standing on the street
+segment_26.jpg: the image have blurry images of people walking down the street
+segment_27.jpg: the image have many cars parked on the side of the road
+segment_28.jpg: the image have a man in a black shirt holding a frisbee
+segment_29.jpg: the image have many cars parked in a row on the street
+segment_3.jpg: the image have two women standing next to a car on the street
+segment_30.jpg: the image have a lot of umbrellas in the rain
+segment_31.jpg: the image have a lot of windows with a green roof
+segment_32.jpg: the image have blurred motion blurry of a man walking with a cell phone
+segment_33.jpg: the image have two people walking on the street with a dog
+segment_34.jpg: the image have two women walking down the street with one woman in a red shirt
+segment_35.jpg: the image have two people walking down the street with a cell phone
+segment_36.jpg: the image have a black purse with a black bow on it
+segment_37.jpg: the image have a couple of people on a motorcycle in a city
+segment_38.jpg: the image have a lot of different logos on them
+segment_39.jpg: the image have two people walking with a child in a backpack
+segment_4.jpg: the image have a lot of people walking around in the street
+segment_40.jpg: the image have a lot of signs on the side of the road
+segment_41.jpg: the image have a lot of people walking on the street
+segment_42.jpg: the image have a lot of cars on the street in the city
+segment_43.jpg: the image have two people sitting at a table with a laptop
+segment_5.jpg: the image have two women walking across the street with a bag
+segment_6.jpg: the image have blurred motion blurry of a car and a person on a skateboard
+segment_7.jpg: the image have a lot of people walking around on the street
+segment_8.jpg: the image have two men standing on the sidewalk talking
+segment_9.jpg: the image have a blurry picture of a woman in a dress riding a skateboard

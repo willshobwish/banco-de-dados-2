@@ -5,7 +5,8 @@ import os
 # Load the YOLOv5 model
 model = torch.hub.load("ultralytics/yolov5", "yolov5s")
 
-def segmentation(image_path:str):   
+
+def segmentation(image_path: str):
     # Inference on an image
     # image_path = r"assets\pexels-ekrulila-2332914.jpg"
     results = model(image_path)
@@ -21,14 +22,15 @@ def segmentation(image_path:str):
     for i, (xmin, ymin, xmax, ymax) in enumerate(results.xyxy[0][:, :4]):
         # Convert coordinates to integer
         xmin, ymin, xmax, ymax = map(int, [xmin, ymin, xmax, ymax])
-        
+
         # Crop the segment from the original image
         segment = original_image.crop((xmin, ymin, xmax, ymax))
-        
+
         # Save the segment
         segment_path = os.path.join(output_dir, f"segment_{i+1}.jpg")
         segment.save(segment_path)
 
         print(f"Saved segment {i+1} at {segment_path}")
 
-segmentation(r'C:\Users\Willian Murayama\github\banco-de-dados-2\assets\pexels-sohan-rahat-1445529889-27000787.jpg')
+
+segmentation(r'assets\pexels-joshsorenson-139303.jpg')
