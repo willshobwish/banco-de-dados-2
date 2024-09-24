@@ -1,15 +1,37 @@
 from ultralytics import YOLO
+from PIL import Image
+import os
 
-# model = YOLO(r"C:\Users\Willian Murayama\Downloads\yolov8l.pt")
-model = YOLO(r"assets\yolov8x.pt")
-results = model.predict(r"assets\pexels-ekrulila-2332914.jpg")
-for result in results:
-    boxes = result.boxes  # Boxes object for bounding box outputs
-    masks = result.masks  # Masks object for segmentation masks outputs
-    keypoints = result.keypoints  # Keypoints object for pose outputs
-    probs = result.probs  # Probs object for classification outputs
-    obb = result.obb  # Oriented boxes object for OBB outputs
-    result.show()  # display to screen
-    result.save(filename=r"assets\result.jpg")  # save to disk
+# Load the YOLO model
+model = YOLO(r"E:\Sistema\Downloads\yolov8x.pt")
 
-# print(results)
+# Function for segmenting and saving detected objects
+def segmentation(image_path: str):
+    # Inference on the image
+    results = model(image_path)
+
+    # Load the original image using PIL
+    original_image = Image.open(image_path)
+
+    # Directory to save segments
+    output_dir = "output_segments"
+    os.makedirs(output_dir, exist_ok=True)
+
+    # Access the first result in the list (assuming only one image is processed)
+    result = results[0]
+
+    # Iterate over detected objects and save segments
+    for i, box in enumerate(result.boxes.xyxy):  # Access the bounding boxes
+        xmin, ymin, xmax, ymax = map(int, box)  # Convert coordinates to integer
+
+        # Crop the segment from the original image
+        segment = original_image.crop((xmin, ymin, xmax, ymax))
+
+        # Save the segment
+        segment_path = os.path.join(output_dir, f"segment_{i+1}.jpg")
+        segment.save(segment_path)
+
+        print(f"Saved segment {i+1} at {segment_path}")
+
+# Call the segmentation function
+segmentation(r'assets\pexels-joshsorenson-139303.jpg')
